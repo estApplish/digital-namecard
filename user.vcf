@@ -2,7 +2,7 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Deirdre;Brown;;;
-FN: Deirdre Brown 
+FN:Deirdre Brown 
 ORG:estAPPlish;
 TITLE:Founder
 PHOTO;JPEG:https://github.com/estApplish/digital-namecard/blob/master/Headshot.jpg
@@ -10,5 +10,5 @@ EMAIL;type=INTERNET;type=WORK;type=pref:dbrown@estAPPlish.com
 TEL;type=WORK;type=VOICE:2029817070
 item2.URL;type=pref:estAPPlish.com
 item2.X-ABLabel:_$!<HomePage>!$_
-NOTE:Book a Free 30 Minute Consultation\nhttps://wwww.estapplish.com/consultation
+NOTE:Book a Free 30 Minute Consultation\nURL:https://wwww.estapplish.com/consultation
 END:VCARD
