@@ -8,7 +8,7 @@ TITLE:Founder
 EMAIL;type=INTERNET;type=WORK;type=pref:dbrown@estAPPlish.com
 TEL;type=WORK;type=VOICE:2029817070
 item1.ADR;type=WORK;type=pref:;; ;;; ; 
-item1.X-ABADR:sg
+item1.X-ABADR:
 item2.URL;type=pref:estAPPlish.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
