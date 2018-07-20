@@ -2,10 +2,10 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Deirdre;Brown;;;
-FN: Brown  Deirdre 
+FN: Deirdre Brown 
 ORG:estAPPlish;
 TITLE:Founder
-PHOTO;JPEG:https://github.com/estAPPlish/digital-namecard/Headshot.jpg
+PHOTO;JPEG:https://www.dropbox.com/s/g5xzeh08tvg49g6/Headshot.jpg?dl=0
 EMAIL;type=INTERNET;type=WORK;type=pref:dbrown@estAPPlish.com
 TEL;type=WORK;type=VOICE:2029817070
 item1.ADR;type=WORK;type=pref:;; ;;; ; 
